@@ -25,18 +25,7 @@ This project implements a Distributed Hash Table (DHT) based InterPlanetary File
 - `MyBigInt.h` - Custom BigInt implementation
 - `BTREE.h` - B-tree data structure implementation
 
-## Dependencies
-
-### Standard C++ Libraries
-- `<iostream>` - Input/output operations
-- `<string>` - String manipulation
-- `<cstdlib>` - System commands and utilities
-- `<cstdio>` - C-style input/output
-- `<fstream>` - File operations
-- `<sstream>` - String stream operations
-- `<cmath>` - Mathematical operations
-
-### Crypto++ Libraries
+### Crypto++ Libraries  -- Watch youtube Video on how to install Crypto++ Libraries
 - `<sha.h>` - SHA hashing
 - `<filters.h>` - Cryptographic filters
 - `<hex.h>` - Hexadecimal encoding/decoding
