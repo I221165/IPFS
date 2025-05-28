@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\!Downloads\Semester 3\Data Structure\PROJECT\Main Project\MyBigInt.h(104,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\!Downloads\Semester 3\Data Structure\PROJECT\Main Project\MyBigInt.h(173,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\!Downloads\Semester 3\Data Structure\PROJECT\Main Project\MyBigInt.h(319,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\!Downloads\Semester 3\Data Structure\PROJECT\Main Project\MyBigInt.h(333,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\!Downloads\Semester 3\Data Structure\PROJECT\Main Project\Source.cpp(50,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\!Downloads\Semester 3\Data Structure\PROJECT\Main Project\Source.cpp(102,10): warning C4101: 'choicee': unreferenced local variable
+C:\!Downloads\Semester 3\Data Structure\PROJECT\Main Project\MyBigInt.h(254): warning C4715: 'BigInt::operator<': not all control paths return a value
+C:\!Downloads\Semester 3\Data Structure\PROJECT\Main Project\MyBigInt.h(267): warning C4715: 'BigInt::operator<': not all control paths return a value
+C:\!Downloads\Semester 3\Data Structure\PROJECT\Main Project\RingDht.h(628): warning C4715: 'RingDHT::FilePathtoFileID': not all control paths return a value
+C:\!Downloads\Semester 3\Data Structure\PROJECT\Main Project\BTREE.h(601): warning C4715: 'Btree::searchbyId': not all control paths return a value
+C:\!Downloads\Semester 3\Data Structure\PROJECT\Main Project\BTREE.h(426): warning C4715: 'Btree::search': not all control paths return a value
+C:\!Downloads\Semester 3\Data Structure\PROJECT\Main Project\BTREE.h(391): warning C4715: 'Btree::predecessor': not all control paths return a value
+  Main Project.vcxproj -> C:\!Downloads\Semester 3\Data Structure\PROJECT\Main Project\x64\Debug\Main Project.exe
